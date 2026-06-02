@@ -22,6 +22,7 @@ bookToc: true
 
 ### 已完成的工作
 
+- 基于开发板的github[自动测试环境搭建帮助](https://arceos-hypervisor.github.io/axvisorbook/docs/design/test)
 - 2023年：北京工商大学 陈志扬-[支持Rust语言的源代码级操作系统调试工具](https://github.com/chenzhiy2001/code-debug/blob/master/pre-record/%E6%9C%80%E7%BB%88%E6%8A%A5%E5%91%8A.pdf)：这是操作系统比赛功能赛道的特等奖；
 - 2022年：唐皓泓-[在线实验平台](https://www.yuque.com/xyong-9fuoz/hg8kgr/rstmxmyv1zutm84y#ee5ce09f)
 
