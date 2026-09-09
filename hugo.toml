@@ -14,14 +14,24 @@ disableKinds = ['taxonomy']
   startLevel = 1
 
 [[menu.after]]
-  name = '代码仓库'
-  url = 'https://github.com/chenzhiy2001/code-debug'
+  name = '代码仓库（OSGDB）'
+  url = 'https://github.com/OSDebugger/osgdb'
   weight = 10
 
 [[menu.after]]
-  name = 'VS Code 插件'
-  url = 'https://marketplace.visualstudio.com/items?itemName=chenzhiy2001.os-debug'
+  name = '代码仓库（Async-Debuger）'
+  url = 'https://github.com/OSDebugger/async-debug'
   weight = 20
+
+[[menu.after]]
+  name = '异步跟踪方案仓库'
+  url = 'https://github.com/OSDebugger/code-debug_Asynchronous-trace'
+  weight = 30
+
+[[menu.after]]
+  name = '开发者文档'
+  pageRef = 'dev'
+  weight = 40
 
 [params]
   BookTheme = 'auto'
