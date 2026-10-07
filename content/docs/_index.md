@@ -13,8 +13,7 @@ OS Debug 提供三条调试能力线，按你的调试场景选择对应的教�
 
 在 VS Code 中跨内核态/用户态设置断点与单步调试，支持 QEMU 虚拟机与真实硬件。
 
-- [调试 rCore](usage-rcore) — Rust 教学操作系统，含星光 2 真实硬件调试
-- [调试 xv6](usage-xv6) — C 语言教学操作系统
+- [调试 rCore](usage-rcore) — Rust 教学操作系统
 - [调试 StarryOS](usage-starryos) — 组件化 Rust 操作系统
 
 ## Rust 异步程序调试（Async-Debuger）
@@ -32,4 +31,3 @@ OS Debug 提供三条调试能力线，按你的调试场景选择对应的教�
 ## 其他
 
 - [功能介绍](features) — 了解插件的全部功能
-- [常见问题](faq) — 遇到问题先看这里

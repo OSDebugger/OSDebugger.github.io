@@ -6,7 +6,7 @@ bookToc: true
 
 # 调试 rCore
 
-本文档说明如何用 OSGDB 调试 rCore-Tutorial-v3，涵盖 QEMU 虚拟机与星光 2 真实硬件两种环境
+本文档说明如何用 OSGDB 调试 rCore-Tutorial-v3。
 
 ## 插件安装
 
